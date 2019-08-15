@@ -1,5 +1,7 @@
 # Clima
-###### Esse aplicativo foi desenvolvido através de um desafio para conseguir obter dados JSON da internet para receber dados climáticos da cidade escolhida pela usuário em tempo real.
+###### [PT-BR]Esse aplicativo foi desenvolvido através de um desafio para conseguir obter dados JSON da internet para receber dados climáticos da cidade escolhida pela usuário em tempo real.
+
+###### [EN] This application was developed through a challenge to get JSON data from the internet to receive weather data of the city chosen by the user in real time.
 
 ![img3](https://user-images.githubusercontent.com/6657364/55749951-9cecf280-5a18-11e9-88d6-c0cd97eb5e93.png)
 ![img1](https://user-images.githubusercontent.com/6657364/55749940-98c0d500-5a18-11e9-8566-f7a715a54932.png)
